@@ -1,4 +1,4 @@
-# Interfaces Inteligentes - Práctica 01 <!-- omit in toc -->
+# Interfaces Inteligentes - Práctica 03 <!-- omit in toc -->
 
 * Javier Correa Marichal (alu0101233598)
 * Nerea Rodríguez Hernández (alu0101215693)
